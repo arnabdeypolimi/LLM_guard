@@ -1,7 +1,5 @@
 # Mental Health Advice Guard
 
-> **Why**: We want to see how you think how you transform a social problem into LLM guardrails.
-
 ## Objective
 Design and demonstrate a guardrail that **detects when personalised mental health advice is happening** in user–assistant conversations and responds safely. Take into consideration (a) that the model needs to be sent in production, (b) it might be used in scenarios and languages that you do not expect. 
 
